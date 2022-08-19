@@ -1,0 +1,65 @@
+body {
+  font-family: system-ui;
+  background:purple;
+  color: white;
+  text-align: center;
+}
+<style>
+    
+   #main{ 
+}
+    #title{ 
+      font-size: 55PX;
+      font-family: avantgarde;
+      type:text;
+      margin-top:30px;
+    }
+   h4{ 
+     font-family:avangarde;
+     font-size:20px;
+     
+    }
+ 
+    
+    #img-div{
+      display:flex;
+      flex-direction:column;
+      height:auto;
+      width:1200px;
+      background: white;
+      margin-left:5%;
+      
+    }
+    #image{
+      height: auto;
+      max-width:100%;
+      
+      
+    }
+    #img-caption{
+      font-size:20px;
+      color: black;
+      padding-bottom:20px;
+      
+      
+}
+    #tribute-info{
+      font-family: cursive, brush-script-mt;
+      font-size: 15px;
+      
+}
+    #tribute-link{
+      color:blue;
+      
+    }
+
+li{
+  font-size:35px;
+  text-align:left;
+}
+
+ul{
+  margin:40px 100px 40px 100px;
+  
+}
+  </style>
